@@ -18,32 +18,40 @@
     "乐于接触新事物，学习过XHTML/Css/JavaScript等前端技术，了解jQuery等JS框架，熟悉数据库的开发使用",
     "善于学习。善于发现和解决重复性的影响做事效率的问题。喜欢设计，对用户体验有追求。爱折腾，没事的时候喜欢做点小东西。"
   ],
-  "education":[
+  "experience":[
     {
+      "time":"2014.09-now",
       "title":"编程软件方面",
-      "description":"学习过C语言、汇编语言；熟练运用matlab解决相关问题，如设计滤波器，图像去噪；熟练运用电子仿真软件（EWB、multism、matlab）等软件进行电路仿真；了解数据库相关知识;了解Web前端开发技术（HTML、CSS，JavaScript）"
+      "intro":"学习过C语言、汇编语言；熟练运用matlab解决相关问题，如设计滤波器，图像去噪；熟练运用电子仿真软件（EWB、multism、matlab）等软件进行电路仿真；",
+      "description":"了解数据库相关知识;了解Web前端开发技术（HTML、CSS，JavaScript）"
     },
     {
-
+      "time":"2014.0-now",
       "title":"硬件方面",
- 
+      "intro":"熟悉各类电子元器件和仪器操作",
       "description":"熟悉各类电子元器件和仪器操作"
     },
     {
-      
+      "time":"2014.3-2015.1",
       "title":"掌握核心课程知识",
-   
-      "description":"数字图像处理、模式识别技术与应用、传感器与技术、天线与电波测量、通信原理，C语言程序设计基础等 "
+      "intro":"数字图像处理、模式识别技术与应用、传感器与技术、天线与电波测量、通信原理，C语言程序设计基础等",
+      "description":"数字图像处理、模式识别技术与应用、传感器与技术、天线与电波测量、通信原理，C语言程序设计基础等"
     },
-   
+    {
+      "time":"2012年-2013年",
+      "title":"先后在湖北武汉/十堰工作",
+      "intro":"其中包括1年的实习时间",
+      "description":"毕业于武汉软件工程职业技术学院。先后在武汉和老家湖北十堰工作一年。期间，主要精力用于钻研学习一个基于php的cms：drupal。与此同时，学会了drupal以及wordpress之类的cms的常用操作和主题开发。"
+    }
+
   ],
   "skill":[
     {
-      "name":"HTML",
+      "name":"Css",
       "percent":"80%"
     },
     {
-      "name":"CSS",
+      "name":"PhotoShop",
       "percent":"70%"
     },
     {
@@ -51,20 +59,20 @@
       "percent":"60%"
     },
     {
-      "name":"JQuery",
+      "name":"Nodejs",
       "percent":"60%"
     },
     {
-      "name":"Photoshop",
+      "name":"MongoDB",
       "percent":"50%"
     },
     {
-      "name":"微信公众号管理",
-      "percent":"40%"
+      "name":"PHP",
+      "percent":"30%"
     }
   ],
   "project":[
-    {
+   {
       "time":"2017.03-2017.06",
       "title":"仿真设计光伏电源最大功率跟踪装置",
       "intro":"对PV光伏组件建模，实现MPPT最大功率追踪电路。",
@@ -81,6 +89,12 @@
       "title":"香港大学交流项目",
       "intro":"参加香港大学教授或知名专家的讲座，和香港大学学生进行交流，参观香港有关机构或企业。",
       "description":"收获分享：了解5G网络主要有三大特点，极高的速率(eMBB)，极大的容量(mMTC)，极低的时延(URLLC)及其应用。"
+    },
+    {
+      "time":"2015.11-2016.08",
+      "title":"U学",
+      "intro":"一个闯关形式的在线教育产品",
+      "description":"与之前的听说通类似。如果之前的产品是淘宝模式，那么这个产品就是京东模式。同样包括学生端，老师端和微信家长端以及管理后台。除此之外，我们还利用ionic基于前端技术制作老师移动端分别打包成了android和ios应用。"
     }
   ],
   "usually":[
@@ -99,7 +113,19 @@
       "link":"http://www.w3school.com.cn/",
       "description":"回顾前端技术基础知识"
     },
- 
+    {
+      "name":"Behance",
+      "description":"寻找灵感探索新奇"
+    },
+    {
+      "name":"Dribbble",
+      "link":"https://dribbble.com/eternityspring",
+      "description":"寻找灵感探索新奇"
+    },
+    {
+      "name":"CodePen",
+      "link":"http://codepen.io/eternityspring",
+      "description":"探索和分享好的代码"
     }
   ]
 }
