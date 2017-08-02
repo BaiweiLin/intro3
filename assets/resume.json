@@ -1,0 +1,105 @@
+{
+  "name":"林柏维",
+  "sex":"男",
+  "age":"22",
+  "exp":"汕头大学大四学生",
+  "nickname":"林柏维",
+  "firstName":"Albert",
+  "lastName":"Lin",
+  "slogan":"正在学习和追求专业的前端开发者前端开发者",
+  "location":"guangzhou·China",
+  "qq":{
+    "number":"623621832"
+  },
+  "major":"通信工程",
+  "github":"https://github.com/BaiweiLin",
+  "email":"623621832@qq.com",
+  "intro":[
+    "乐于接触新事物，学习过XHTML/Css/JavaScript等前端技术，了解jQuery等JS框架，熟悉数据库的开发使用",
+    "善于学习。善于发现和解决重复性的影响做事效率的问题。喜欢设计，对用户体验有追求。爱折腾，没事的时候喜欢做点小东西。"
+  ],
+  "education":[
+    {
+      "title":"编程软件方面",
+      "description":"学习过C语言、汇编语言；熟练运用matlab解决相关问题，如设计滤波器，图像去噪；熟练运用电子仿真软件（EWB、multism、matlab）等软件进行电路仿真；了解数据库相关知识;了解Web前端开发技术（HTML、CSS，JavaScript）"
+    },
+    {
+
+      "title":"硬件方面",
+ 
+      "description":"熟悉各类电子元器件和仪器操作"
+    },
+    {
+      
+      "title":"掌握核心课程知识",
+   
+      "description":"数字图像处理、模式识别技术与应用、传感器与技术、天线与电波测量、通信原理，C语言程序设计基础等 "
+    },
+   
+  ],
+  "skill":[
+    {
+      "name":"HTML",
+      "percent":"80%"
+    },
+    {
+      "name":"CSS",
+      "percent":"70%"
+    },
+    {
+      "name":"JavaScript",
+      "percent":"60%"
+    },
+    {
+      "name":"JQuery",
+      "percent":"60%"
+    },
+    {
+      "name":"Photoshop",
+      "percent":"50%"
+    },
+    {
+      "name":"微信公众号管理",
+      "percent":"40%"
+    }
+  ],
+  "project":[
+    {
+      "time":"2017.03-2017.06",
+      "title":"仿真设计光伏电源最大功率跟踪装置",
+      "intro":"对PV光伏组件建模，实现MPPT最大功率追踪电路。",
+      "description":"主要是针对实现MPPT最大功率跟踪电路，仿真证明通过纯硬件电路也可以实现光伏电路的最大功率跟踪。<br/><b>主要运用的知识：</b><ul><li>用mutisim设计电路</li><li>用C语言编程</li><li>用proteus嵌入程序进行仿真</li><li>采用altium designer作为PCB板的布局工具。</li></ul>"
+    },
+    {
+      "time":"2015.08-2015.12",
+      "title":"液体点滴速度监控装置设计",
+      "intro":"以单片机为核心的一种自动控制系统",
+      "description":"主要包括硬件设计和软件设计两大部分。采用电机控制液面高度，利用压强的变化来改变点滴输液管内的点滴速度。<br/><b>主要运用的知识：</b><ul><li>用mutisim设计电路</li><li>用C语言编程。</li></ul>"
+    },
+    {
+      "time":"2017.01",
+      "title":"香港大学交流项目",
+      "intro":"参加香港大学教授或知名专家的讲座，和香港大学学生进行交流，参观香港有关机构或企业。",
+      "description":"收获分享：了解5G网络主要有三大特点，极高的速率(eMBB)，极大的容量(mMTC)，极低的时延(URLLC)及其应用。"
+    }
+  ],
+  "usually":[
+    {
+      "name":"GitHub",
+      "link":"https://github.com/BaiweiLin",
+      "description":"分享一些我的小作品 结交志同道合的朋友"
+    },
+    {
+      "name":"知乎",
+      "link":"https://www.zhihu.com/people/790313188",
+      "description":"搜索解决一些疑问 探索新奇"
+    },
+    {
+      "name":"w3cschool",
+      "link":"http://www.w3school.com.cn/",
+      "description":"回顾前端技术基础知识"
+    },
+ 
+    }
+  ]
+}
